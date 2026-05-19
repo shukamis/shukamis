@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4A90D9&height=140&section=header&text=Arthur%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Vibecoder%20desde%202021&descSize=16&descAlignY=85&descColor=88b4d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4A90D9&height=140&section=header&text=Arthur%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Vibecoder%20desde%202021%20%7C%20CX%20%26%20IT%20Professional&descSize=16&descAlignY=85&descColor=88b4d9"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Construindo+com+IA+desde+antes+de+ser+moda;Apps+que+as+pessoas+usam+de+verdade;C%23+%2F+.NET+%7C+Windows+nativo+%7C+Open+source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=CX+%26+IT+Professional+%7C+Vibecoder;Suporte+bilíngue+PT%2FEN+%7C+Google+%26+Microsoft;Construindo+com+IA+desde+antes+de+ser+moda;+5k+inscritos+no+YouTube+%40arthurgarciacrypto" alt="Typing SVG" />
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arthurgarciak)
+[![YouTube](https://img.shields.io/badge/YouTube-5k+%20inscritos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arthurgarciacrypto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurgarciasp/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shukamis)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arthurgarciak)
 
 </div>
 
@@ -16,37 +16,54 @@
 
 ### Sobre mim
 
-```cs
-var arthur = new Developer
-{
-    Nome      = "Arthur Garcia",
-    Desde     = 2021,
-    Modo      = "Vibecoder — ideias viram produto",
-    Stack     = new[] { "C#", ".NET 8", "WinForms", "AI APIs" },
-    Criando   = new[] { "VidDrop", "CorteRapido" },
-    Filosofia = "Software limpo que funciona sem complicar"
+```ts
+const arthur = {
+  foco:      "Customer Experience | IT | Inteligência Artificial",
+  cargo:     "CX Specialist — suporte técnico bilíngue (PT/EN)",
+  cursando:  "Análise e Desenvolvimento de Sistemas · Cruzeiro do Sul",
+  youtube:   "@arthurgarciacrypto · +5k inscritos",
+  superpoder:"Explicar tecnologia complexa de forma simples",
+  vibecoder: true,  // apps reais, sem diploma de engenharia
 };
 ```
 
 ---
 
-### Stack
+### Experiência
+
+**Especialista Bilíngue (PT/EN)** — Atento *(set/2025 – mar/2026)*
+> Suporte técnico para uma das maiores ferramentas de publicidade do mercado. Escalava bugs globais em inglês para o time de engenharia.
+
+**Customer Success & Analista N2** — MultiClara *(jul/2024 – abr/2025)*
+> Onboarding e treinamentos corporativos de Google Workspace e Microsoft 365. Participou da implementação de IA no primeiro atendimento.
+
+**Analista de Treinamentos GWS Jr** — SantoDigital *(set/2022 – abr/2023)*
+> Capacitação de usuários em migração Microsoft → Google. Criação de tutoriais em vídeo e manuais documentados.
+
+---
+
+### Certificações em destaque
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,python,git,github,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+![Google AI](https://img.shields.io/badge/Google_AI_(6x)-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace_Sales-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Sales-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![FIAP](https://img.shields.io/badge/Gestão_de_Infra_TI-FIAP-ED1C24?style=flat-square)
+![Customer Success](https://img.shields.io/badge/Customer_Success-00C851?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-### Projetos em destaque
+### Projetos
 
 <div align="center">
 
-| | |
-|---|---|
 | **VidDrop** | **CorteRapido** |
+|---|---|
 | Baixador open source para Windows | Gerador de clips virais com IA |
 | YouTube · X · Instagram · TikTok | Whisper + GPT · 9:16 · Legendas |
 | [![Stars](https://img.shields.io/github/stars/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop) [![Release](https://img.shields.io/github/v/release/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop/releases/latest) | ![Em breve](https://img.shields.io/badge/status-em%20breve-4A90D9?style=flat-square) |
@@ -63,18 +80,8 @@ var arthur = new Developer
 
 <br/><br/>
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukamis&theme=tokyonight"/>
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shukamis&theme=tokyonight"/>
-
-</div>
-
----
-
-### Ouvindo agora
-
-<div align="center">
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=01shukame&unique=true&width=500)](https://open.spotify.com/user/01shukame)
+<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukamis&theme=tokyonight"/>
+<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shukamis&theme=tokyonight"/>
 
 </div>
 
