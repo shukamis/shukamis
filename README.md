@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4A90D9&height=140&section=header&text=Arthur%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Vibecoder%20desde%202021%20%7C%20CX%20%26%20IT%20Professional&descSize=16&descAlignY=85&descColor=88b4d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4A90D9&height=140&section=header&text=Arthur%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Vibecoder%20desde%202021%20%7C%20CX%20%2B%20IT%20Professional&descSize=16&descAlignY=85&descColor=88b4d9"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=CX+%26+IT+Professional+%7C+Vibecoder;Suporte+bilíngue+PT%2FEN+%7C+Google+%26+Microsoft;Construindo+com+IA+desde+antes+de+ser+moda;+5k+inscritos+no+YouTube+%40arthurgarciacrypto" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=CX+%26+IT+Professional+%7C+Vibecoder;Suporte+bilingue+PT%2FEN+%7C+Google+%26+Microsoft;Construindo+com+IA+desde+antes+de+ser+moda;5k+inscritos+no+YouTube" alt="Typing SVG" />
 
 <br/>
 
