@@ -58,32 +58,13 @@ const arthur = {
 
 ---
 
-### Projetos
+### Projeto em destaque
 
-<div align="center">
+**[VidDrop](https://github.com/shukamis/viddrop)** — Baixador de vídeos open source para Windows. Cole uma URL do YouTube, Twitter/X, Instagram, Facebook ou TikTok e baixe em MP4 ou MP3, sem anúncios e sem instalar mais nada.
 
-| **VidDrop** | **CorteRapido** |
-|---|---|
-| Baixador open source para Windows | Gerador de clips virais com IA |
-| YouTube · X · Instagram · TikTok | Whisper + GPT · 9:16 · Legendas |
-| [![Stars](https://img.shields.io/github/stars/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop) [![Release](https://img.shields.io/github/v/release/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop/releases/latest) | ![Em breve](https://img.shields.io/badge/status-em%20breve-4A90D9?style=flat-square) |
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=shukamis&theme=tokyonight&hide_border=true&background=0d1117&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=4A90D9"/>
-
-<br/><br/>
-
-<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukamis&theme=tokyonight"/>
-<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shukamis&theme=tokyonight"/>
-
-</div>
+[![Stars](https://img.shields.io/github/stars/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop)
+[![Release](https://img.shields.io/github/v/release/shukamis/viddrop?style=flat-square&color=4A90D9&label=versão)](https://github.com/shukamis/viddrop/releases/latest)
+[![License](https://img.shields.io/github/license/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop/blob/master/LICENSE)
 
 ---
 
