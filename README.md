@@ -1,72 +1,72 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4A90D9&height=140&section=header&text=Arthur%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Desenvolvedor%20Windows%20%7C%20C%23%20%2F%20.NET&descSize=16&descAlignY=85&descColor=88b4d9"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Arthur+👋;Dev+apaixonado+por+Windows;Fazendo+apps+que+as+pessoas+usam" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=550&lines=Fazendo+apps+que+as+pessoas+usam+de+verdade;Windows+nativo+%7C+C%23+%2F+.NET+8;Open+source+e+sem+anucios" alt="Typing SVG" />
 
 <br/>
 
-Desenvolvedor focado em **apps nativos para Windows** — do download de vídeos à geração de clips com IA.
-Gosto de interfaces limpas, código direto ao ponto e software que funciona sem complicar.
-
-<br/>
-
-[![Twitter](https://img.shields.io/badge/@arthurgarciak-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arthurgarciak)
-[![GitHub](https://img.shields.io/badge/shukamis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shukamis)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arthurgarciak)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shukamis)
 
 </div>
 
 ---
 
-## O que estou construindo
+### Sobre mim
 
-<table>
-<tr>
-<td width="50%">
-
-### VidDrop
-Baixador de vídeos para Windows — YouTube, Twitter/X, Instagram, TikTok e mais. Interface Frutiger Aero, sem anúncios, open source.
-
-[![VidDrop](https://img.shields.io/github/v/release/shukamis/viddrop?style=flat-square&color=4A90D9&label=v)](https://github.com/shukamis/viddrop)
-[![Stars](https://img.shields.io/github/stars/shukamis/viddrop?style=flat-square&color=4A90D9)](https://github.com/shukamis/viddrop)
-
-</td>
-<td width="50%">
-
-### CorteRápido
-Gerador de clips virais com IA — transcreve vídeos, identifica os melhores momentos e exporta em 9:16 com legendas prontas para TikTok e Reels.
-
-🚧 Em desenvolvimento
-
-</td>
-</tr>
-</table>
+```cs
+var arthur = new Developer
+{
+    Nome     = "Arthur Garcia",
+    Foco     = "Apps nativos para Windows",
+    Stack    = new[] { "C#", ".NET 8", "WinForms" },
+    Paixao   = "Interfaces limpas e software que funciona",
+    Atual    = "Construindo VidDrop + CorteRapido"
+};
+```
 
 ---
 
-## Stack
+### Stack
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,git,github,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Stats
+### Projetos em destaque
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shukamis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukamis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=ffffff&langs_count=6" />
+[![VidDrop](https://github-readme-stats.vercel.app/api/pin/?username=shukamis&repo=viddrop&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff)](https://github.com/shukamis/viddrop)
+
+</div>
+
+> **VidDrop** — Baixador de vídeos open source para Windows. YouTube, Twitter/X, Instagram, TikTok. Sem anúncios, sem complicação.
+>
+> **CorteRapido** *(em breve)* — Gerador de clips virais com IA. Transcreve, identifica os melhores momentos e exporta em 9:16 pronto para Reels e TikTok.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shukamis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukamis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=ffffff&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=shukamis&theme=tokyonight&hide_border=true&background=0d1117&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9"/>
 
 </div>
 
 ---
 
-<div align="center">
-<sub>Feito com foco e café ☕</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,50:1a3a5c,100:0d1117&height=100&section=footer"/>
